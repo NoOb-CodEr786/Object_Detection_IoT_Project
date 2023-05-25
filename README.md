@@ -18,9 +18,9 @@ Servo Motor: Enables precise rotation of the ultrasonic sensor.
 Ultrasonic Sensor: Measures distances and detects objects within its range.
 
 # Software and Visualization
+----------------------------
 
 To demonstrate the project's functionality, processing software was employed. This software provides an intuitive visual representation of real-time object detection using data from the ultrasonic sensor. The processing software showcases the detected objects effectively and allows for monitoring and analysis.
 
-# Videos :
 ----------------
 # Links:- https://drive.google.com/file/d/1lEWEPxaz3VuLhu3UHI51quasEPr0OarT/view?usp=share_link
